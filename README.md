@@ -4,7 +4,7 @@ This repository contains a concise reimplementation of the Vision Transformer de
 
 Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" — https://openreview.net/pdf?id=YicbFdNTTy
 
-- **Notebook**: [a3_vit.ipynb](a3_vit.ipynb)
+- **Notebook**: [transformer.ipynb](transformer.ipynb)
 
 **How this mirrors the paper**
 
